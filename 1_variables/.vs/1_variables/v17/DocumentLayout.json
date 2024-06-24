@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\learning\\1_variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54CBC7F7-2533-43AB-9DF1-E6BEABB8202E}|1_variables\\1_variables.csproj|c:\\users\\alex\\source\\learning\\1_variables\\1_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CBC7F7-2533-43AB-9DF1-E6BEABB8202E}|1_variables\\1_variables.csproj|solutionrelative:1_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\learning\\1_variables\\1_variables\\Program.cs",
+              "RelativeDocumentMoniker": "1_variables\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\learning\\1_variables\\1_variables\\Program.cs",
+              "RelativeToolTip": "1_variables\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvzYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:52:01.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

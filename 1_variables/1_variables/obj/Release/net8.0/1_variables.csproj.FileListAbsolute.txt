@@ -1,0 +1,14 @@
+C:\Users\Alex\source\learning\1_variables\1_variables\bin\Release\net8.0\1_variables.exe
+C:\Users\Alex\source\learning\1_variables\1_variables\bin\Release\net8.0\1_variables.deps.json
+C:\Users\Alex\source\learning\1_variables\1_variables\bin\Release\net8.0\1_variables.runtimeconfig.json
+C:\Users\Alex\source\learning\1_variables\1_variables\bin\Release\net8.0\1_variables.dll
+C:\Users\Alex\source\learning\1_variables\1_variables\bin\Release\net8.0\1_variables.pdb
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.AssemblyInfo.cs
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.dll
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\refint\1_variables.dll
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.pdb
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\1_variables.genruntimeconfig.cache
+C:\Users\Alex\source\learning\1_variables\1_variables\obj\Release\net8.0\ref\1_variables.dll
