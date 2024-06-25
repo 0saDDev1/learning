@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\bin\Release\net8.0\2_arithmetic_operations.exe
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\bin\Release\net8.0\2_arithmetic_operations.deps.json
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\bin\Release\net8.0\2_arithmetic_operations.runtimeconfig.json
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\bin\Release\net8.0\2_arithmetic_operations.dll
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\bin\Release\net8.0\2_arithmetic_operations.pdb
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.AssemblyInfo.cs
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.sourcelink.json
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.dll
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\refint\2_arithmetic_operations.dll
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.pdb
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\2_arithmetic_operations.genruntimeconfig.cache
+C:\Users\Alex\source\learning\2_arithmetic_operations\2_arithmetic_operations\2_arithmetic_operations\obj\Release\net8.0\ref\2_arithmetic_operations.dll
