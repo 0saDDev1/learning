@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\bin\Release\net8.0\3_logical_operations.exe
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\bin\Release\net8.0\3_logical_operations.deps.json
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\bin\Release\net8.0\3_logical_operations.runtimeconfig.json
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\bin\Release\net8.0\3_logical_operations.dll
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\bin\Release\net8.0\3_logical_operations.pdb
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.AssemblyInfo.cs
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.sourcelink.json
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.dll
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\refint\3_logical_operations.dll
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.pdb
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\3_logical_operations.genruntimeconfig.cache
+C:\Users\Alex\source\learning\3_logical_operations\3_logical_operations\3_logical_operations\obj\Release\net8.0\ref\3_logical_operations.dll
