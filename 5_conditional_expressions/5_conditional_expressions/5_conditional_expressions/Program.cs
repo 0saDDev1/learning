@@ -6,25 +6,21 @@ Console.WriteLine($"Операции сравнения:");
 Console.WriteLine($"операция ==:");
 int a = 10;
 int b = 4;
-bool c = a == b; // false
-Console.WriteLine($"a={a} b={b} a==b {c}");
+Console.WriteLine($"a={a} b={b} a==b {a == b}");// false
 
 // != Сравнивает два операнда и возвращает true, если операнды не равны, и false, если они равны.
 Console.WriteLine($"операция !=:");
 int a1 = 10;
 int b1 = 4;
-bool c1 = a1 != b1;    // true
-Console.WriteLine($"a={a1} b={b1} a!=b {c1}");
-bool d1 = a1 != 10;     // false
-Console.WriteLine($"a={a1} a!=10 {d1}");
+Console.WriteLine($"a={a1} b={b1} a!=b {a1 != b1}");// true    
+Console.WriteLine($"a={a1} a!=10 {a1 != 10}");// false
 
 
 // < Операция "меньше чем".Возвращает true, если первый операнд меньше второго, и false, если первый операнд больше второго:
 Console.WriteLine($"операция <:");
 int a2 = 10;
 int b2 = 4;
-bool c2 = a2 < b2; // false
-Console.WriteLine($"a={a2} b={b2} a<b {c2}");
+Console.WriteLine($"a={a2} b={b2} a<b {a2 < b2}");// false
 
 // > Операция "больше чем".Сравнивает два операнда и возвращает true, если первый операнд больше второго, иначе возвращает false:
 Console.WriteLine($"операция >:");
@@ -48,43 +44,38 @@ Console.WriteLine($"a={a5} b={b5} a>=b {a5 >= b5}");// true
 Console.WriteLine($"a={a4} a>=25 {a5 >= 25}");// false
 
 //Операции<,> <=, >= имеют больший приоритет, чем == и !=.
-
+Console.WriteLine();
 //Логические операции
 Console.WriteLine($"Логические операции:");
 
 // | Операция логического сложения или логическое ИЛИ. Возвращает true, если хотя бы один из операндов возвращает true.
-bool x1 = (5 > 6) | (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
-Console.WriteLine(x1);
-bool x2 = (5 > 6) | (4 > 6); // 5 > 6 - false, 4 > 6 - false, поэтому возвращается false
-Console.WriteLine(x2);
+Console.WriteLine($"операция |:");
+Console.WriteLine($"(5 > 6) | (4 < 6) {(5 > 6) | (4 < 6)}");// 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
+Console.WriteLine($"(5 > 6) | (4 > 6) {(5 > 6) | (4 > 6)}");// 5 > 6 - false, 4 > 6 - false, поэтому возвращается false
 
 // & Операция логического умножения или логическое И. Возвращает true, если оба операнда одновременно равны true.
-bool x11 = (5 > 6) & (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается false
-Console.WriteLine(x11);
-bool x22 = (5 < 6) & (4 < 6); // 5 < 6 - true, 4 < 6 - true, поэтому возвращается true
-Console.WriteLine(x22);
+Console.WriteLine($"операция &:");
+Console.WriteLine($"(5 > 6) & (4 < 6) {(5 > 6) & (4 < 6)}");// 5 > 6 - false, 4 < 6 - true, поэтому возвращается false
+Console.WriteLine($"(5 < 6) & (4 < 6) {(5 < 6) & (4 < 6)}");// 5 < 6 - true, 4 < 6 - true, поэтому возвращается true
 
 // || Операция логического сложения. Возвращает true, если хотя бы один из операндов возвращает true.
-bool x111 = (5 > 6) || (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
-Console.WriteLine(x111);
-bool x222 = (5 > 6) || (4 > 6); // 5 > 6 - false, 4 > 6 - false, поэтому возвращается false
-Console.WriteLine(x222);
+Console.WriteLine($"операция ||:");
+Console.WriteLine($"(5 > 6) || (4 < 6) {(5 > 6) || (4 < 6)}");// 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
+Console.WriteLine($"(5 > 6) || (4 > 6) {(5 > 6) || (4 > 6)}");// 5 > 6 - false, 4 > 6 - false, поэтому возвращается false
 
 // && Операция логического умножения. Возвращает true, если оба операнда одновременно равны true.
-bool x1111 = (5 > 6) && (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается false
-Console.WriteLine(x1111);
-bool x2222 = (5 < 6) && (4 < 6); // 5 < 6 - true, 4 < 6 - true, поэтому возвращается true
-Console.WriteLine(x2222);
+Console.WriteLine($"операция &&:");
+Console.WriteLine($"(5 > 6) && (4 < 6) {(5 > 6) && (4 < 6)}");// 5 > 6 - false, 4 < 6 - true, поэтому возвращается false
+Console.WriteLine($"(5 < 6) && (4 < 6) {(5 < 6) && (4 < 6)}");// 5 < 6 - true, 4 < 6 - true, поэтому возвращается true
 
 // ! Операция логического отрицания. Производится над одним операндом и возвращает true, если операнд равен false. Если операнд равен true, то операция возвращает false:
+Console.WriteLine($"операция !:");
 bool aa = true;
-bool bb = !aa;    // false
-Console.WriteLine(bb);
+Console.WriteLine($"a=true !a {!aa}");// false
 
 // ^ Операция исключающего ИЛИ. Возвращает true, если либо первый, либо второй операнд (но не одновременно) равны true, иначе возвращает false
-bool x5 = (5 > 6) ^ (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
-Console.WriteLine(x5);
-bool x6 = (50 > 6) ^ (4 / 2 < 3); // 50 > 6 - true, 4/2 < 3 - true, поэтому возвращается false
-Console.WriteLine(x6);
+Console.WriteLine($"операция ^:");
+Console.WriteLine($"(5 > 6) ^ (4 < 6) {(5 > 6) ^ (4 < 6)}");// 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
+Console.WriteLine($"(50 > 6) ^ (4 / 2 < 3) {(50 > 6) ^ (4 / 2 < 3)}");// 50 > 6 - true, 4/2 < 3 - true, поэтому возвращается false
 
 Console.ReadLine();

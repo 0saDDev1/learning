@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_conditional_expressions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70324bad4aebef359fced863d1677a59c2cfcead")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42500f612ebbfc183815216613c100e2a95259ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_conditional_expressions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_conditional_expressions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
