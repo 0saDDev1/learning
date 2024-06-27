@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\bin\Release\net8.0\5_conditional_expressions.exe
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\bin\Release\net8.0\5_conditional_expressions.deps.json
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\bin\Release\net8.0\5_conditional_expressions.runtimeconfig.json
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\bin\Release\net8.0\5_conditional_expressions.dll
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\bin\Release\net8.0\5_conditional_expressions.pdb
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.AssemblyInfo.cs
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.sourcelink.json
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.dll
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\refint\5_conditional_expressions.dll
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.pdb
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\5_conditional_expressions.genruntimeconfig.cache
+C:\Users\Alex\source\learning\5_conditional_expressions\5_conditional_expressions\5_conditional_expressions\obj\Release\net8.0\ref\5_conditional_expressions.dll
