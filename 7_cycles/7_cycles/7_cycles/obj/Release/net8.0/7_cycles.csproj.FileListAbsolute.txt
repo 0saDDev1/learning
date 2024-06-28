@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\bin\Release\net8.0\7_cycles.exe
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\bin\Release\net8.0\7_cycles.deps.json
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\bin\Release\net8.0\7_cycles.runtimeconfig.json
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\bin\Release\net8.0\7_cycles.dll
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\bin\Release\net8.0\7_cycles.pdb
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.AssemblyInfo.cs
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.sourcelink.json
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.dll
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\refint\7_cycles.dll
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.pdb
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\7_cycles.genruntimeconfig.cache
+C:\Users\Alex\source\learning\7_cycles\7_cycles\7_cycles\obj\Release\net8.0\ref\7_cycles.dll
