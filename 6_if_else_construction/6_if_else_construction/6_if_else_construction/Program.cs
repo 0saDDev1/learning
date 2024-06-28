@@ -1,4 +1,4 @@
-﻿//0saDDev1 27.06.2024
+﻿//0saDDev1 28.06.2024
 
 // Конструкция if..else и тернарная операция
 // if
@@ -57,8 +57,7 @@ else
 int x = 3;
 int y = 2;
 
-int z = x < y ? (x + y) : (x - y);
-Console.WriteLine(z);   // 1
+Console.WriteLine(x < y ? (x + y) : (x - y));   // 1
 
 
 

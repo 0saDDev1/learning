@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6_if_else_construction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc401c495ec211935deaf7a873cdf130a74eb294")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5d69bd11494068852f8c666b7f257f184974f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("6_if_else_construction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6_if_else_construction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
