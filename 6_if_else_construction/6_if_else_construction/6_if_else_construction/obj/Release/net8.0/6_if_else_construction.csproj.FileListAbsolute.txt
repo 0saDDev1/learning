@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\bin\Release\net8.0\6_if_else_construction.exe
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\bin\Release\net8.0\6_if_else_construction.deps.json
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\bin\Release\net8.0\6_if_else_construction.runtimeconfig.json
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\bin\Release\net8.0\6_if_else_construction.dll
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\bin\Release\net8.0\6_if_else_construction.pdb
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.AssemblyInfo.cs
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.sourcelink.json
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.dll
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\refint\6_if_else_construction.dll
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.pdb
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\6_if_else_construction.genruntimeconfig.cache
+C:\Users\Alex\source\learning\6_if_else_construction\6_if_else_construction\6_if_else_construction\obj\Release\net8.0\ref\6_if_else_construction.dll

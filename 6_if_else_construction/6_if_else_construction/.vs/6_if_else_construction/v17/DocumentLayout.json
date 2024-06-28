@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\learning\\6_if_else_construction\\6_if_else_construction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4263D5-0CBD-4D35-B6F3-BE9CBF9CE4F0}|6_if_else_construction\\6_if_else_construction.csproj|c:\\users\\alex\\source\\learning\\6_if_else_construction\\6_if_else_construction\\6_if_else_construction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4263D5-0CBD-4D35-B6F3-BE9CBF9CE4F0}|6_if_else_construction\\6_if_else_construction.csproj|solutionrelative:6_if_else_construction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\learning\\6_if_else_construction\\6_if_else_construction\\6_if_else_construction\\Program.cs",
+              "RelativeDocumentMoniker": "6_if_else_construction\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\learning\\6_if_else_construction\\6_if_else_construction\\6_if_else_construction\\Program.cs",
+              "RelativeToolTip": "6_if_else_construction\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:31:03.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
