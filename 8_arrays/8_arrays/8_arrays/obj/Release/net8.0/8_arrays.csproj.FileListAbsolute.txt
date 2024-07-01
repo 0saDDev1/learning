@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\bin\Release\net8.0\8_arrays.exe
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\bin\Release\net8.0\8_arrays.deps.json
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\bin\Release\net8.0\8_arrays.runtimeconfig.json
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\bin\Release\net8.0\8_arrays.dll
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\bin\Release\net8.0\8_arrays.pdb
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.AssemblyInfo.cs
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.sourcelink.json
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.dll
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\refint\8_arrays.dll
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.pdb
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\8_arrays.genruntimeconfig.cache
+C:\Users\Alex\source\learning\8_arrays\8_arrays\8_arrays\obj\Release\net8.0\ref\8_arrays.dll
