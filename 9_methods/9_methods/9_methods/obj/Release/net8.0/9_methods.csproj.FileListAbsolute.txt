@@ -1,0 +1,15 @@
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\bin\Release\net8.0\9_methods.exe
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\bin\Release\net8.0\9_methods.deps.json
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\bin\Release\net8.0\9_methods.runtimeconfig.json
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\bin\Release\net8.0\9_methods.dll
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\bin\Release\net8.0\9_methods.pdb
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.AssemblyInfoInputs.cache
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.AssemblyInfo.cs
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.sourcelink.json
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.dll
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\refint\9_methods.dll
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.pdb
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\9_methods.genruntimeconfig.cache
+C:\Users\Alex\source\learning\9_methods\9_methods\9_methods\obj\Release\net8.0\ref\9_methods.dll
